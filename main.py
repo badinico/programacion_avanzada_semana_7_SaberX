@@ -1,8 +1,3 @@
-"""
-Biblioteca SaberX - Sistema de Registro de Libros
-Aplicación con arquitectura DDD y interfaz gráfica Tkinter
-"""
-
 from infrastructure.gui_interface import BookRegistrationGUI
 
 

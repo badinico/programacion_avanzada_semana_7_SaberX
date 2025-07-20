@@ -1,7 +1,3 @@
-"""
-Servicios del dominio - Contienen lógica de negocio que no pertenece a entidades específicas
-"""
-
 from typing import Set
 from .value_objects import Category, Genre, Language, AvailabilityStatus
 
